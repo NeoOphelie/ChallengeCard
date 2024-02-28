@@ -1,8 +1,11 @@
 import * as actionTypes from "./actionTypes"
 
 const initGame: Game = {
-  id: 14,
-
+  id: 42,
+  player1 :  Player,
+  player2 : Player,
+  deckPlayer1 : Deck,
+  deckPlayer2 : Deck
 }
 
 export const addGame: GameAction = {
