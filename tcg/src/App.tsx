@@ -1,15 +1,11 @@
 import { useState } from 'react'
 import './App.css'
+import CardComponent from './components/CardComponent'
 
 function App() {
-
   return (
     <>
-    
-
-      <div className="card">
-        <h1> Hello </h1>
-      </div>
+      <CardComponent />
     </>
   )
 }
