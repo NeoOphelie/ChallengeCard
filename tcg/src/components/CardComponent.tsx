@@ -5,7 +5,7 @@ const CardComponent = () => {
   return (
     <div className="CardContainer">
       <div className="CardBack"></div>
-      <div className="CardFront"></div>
+      <div className="CardFront">Carte n°</div>
     </div>
   )
 };
