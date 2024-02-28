@@ -1,5 +1,10 @@
 interface Card {
-
+    id : number,
+    name : string,
+    attack : number,
+    pv : number,
+    cost : number,
+    point : number
 }
 
 interface Deck {
