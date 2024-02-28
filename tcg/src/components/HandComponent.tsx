@@ -1,17 +1,17 @@
 import { useState } from 'react'
-import { deck } from '../react-app-env'}
+import CardComponent from './CardComponent'
+
 
 interface Props {
     idPlayer : number
 }
 function HandComponent ({idPlayer}:Props) {
-  const [hand, setHand] = useState<deck>([{id : "1"}])
-  const [reserve, setReserve] = useState<deck>()
+  const [hand, setHand] = useState<Deck>()
+  const [reserve, setReserve] = useState<Deck>()
   const [firstPlay, setFirstPlay] = useState<boolean>(true)
 
   function playCard(idCard) {
-    currentCard = 
-    if (firstPlay){
+    if(firstPlay){
         setReserve({...reserve, })
         setFirstPlay(false)
     }else {
@@ -20,7 +20,7 @@ function HandComponent ({idPlayer}:Props) {
   }
   return (
     <>
-      <div> une carte</div>
+        <CardComponent />
     </>
   )
 }

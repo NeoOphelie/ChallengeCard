@@ -4,8 +4,8 @@ import HandComponent from './components/HandComponent'
 import Board from './components/Board'
 
 function App() {
-  const player1Cards = ['Carte 1', 'Carte 2', 'Carte 3'];
-  const player2Cards = ['Carte A', 'Carte B', 'Carte C'];
+  const player1Cards = [];
+  const player2Cards = [];
   const player1Points = 10;
   const player2Points = 15;
   return (
