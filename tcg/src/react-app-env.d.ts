@@ -2,6 +2,6 @@ interface card {
 
 }
 
-interface deck {
+export interface deck {
     list : card[]
 }
