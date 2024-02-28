@@ -1,16 +1,34 @@
 .board {
-    /* display: flex;
-    justify-content: space-between; */
-  }
-  
-  .player {
-    flex: 1;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  .cards {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 10px;
-  }  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.player-zone {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.player-hand {
+  border: 2px solid #000;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.player-info {
+  text-align: center;
+}
+
+.selected-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
