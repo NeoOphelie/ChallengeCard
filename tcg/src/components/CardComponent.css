@@ -1,0 +1,16 @@
+.CardContainer {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.CardBack, .CardFront {
+    width: 200px;
+    height: 300px;
+    color: #fff;
+    background-color: black;
+}
+
+.CardBack {
+    background-image: url("../assets/react.svg");
+}
