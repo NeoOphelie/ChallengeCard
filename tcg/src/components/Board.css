@@ -1,0 +1,16 @@
+.board {
+    /* display: flex;
+    justify-content: space-between; */
+  }
+  
+  .player {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cards {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }  
