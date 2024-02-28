@@ -1,5 +1,5 @@
 interface card {
-
+    id: string
 }
 
 export interface deck {
