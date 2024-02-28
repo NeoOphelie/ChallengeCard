@@ -27,4 +27,4 @@
 * Il existe 200 cartes différentes (avec des noms et caracteristiques différentes).
 * Chaque joueur a à sa disposition un paquet de carte de 60 cartes parmi les 200 cartes.
 
-* Allez-vous réussir à terrasser votre adversaire ? 
+* Allez-vous réussir à terrasser votre adversaire ? oui
