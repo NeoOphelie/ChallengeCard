@@ -15,8 +15,6 @@ function App() {
       <HandComponent idPlayer={1}/>
       <Board player1Points={player1Points} player2Points={player2Points} player1Cards={player1Cards} player2Cards={player2Cards}/>
       <HandComponent idPlayer={2}/>
-      {/* <CardComponent /> */}
-      <CardComponent />
       <DeckComposant />
     </>
   )
