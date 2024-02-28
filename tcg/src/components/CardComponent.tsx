@@ -1,7 +1,13 @@
 import * as React from "react";
+import "./CardComponent.css";
 
 const CardComponent = () => {
-  return <h2>Bienvenue dans le jeu de carte de Momo La Frite !</h2>;
+  return (
+    <div className="CardContainer">
+      <div className="CardBack"></div>
+      <div className="CardFront">Carte n°</div>
+    </div>
+  )
 };
 
 export default CardComponent;
