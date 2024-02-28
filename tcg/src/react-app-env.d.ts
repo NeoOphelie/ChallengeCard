@@ -8,11 +8,14 @@ interface Card {
 }
 
 interface Deck {
+    id : string,
     list : Card[]
 }
 
 interface Player {
-
+    id : string,
+    name : string,
+    vp : number
 }
 
 interface Game {
