@@ -1,0 +1,1604 @@
+[
+    {
+        "id": 1,
+        "name": "Guerrier robuste",
+        "attack": 3,
+        "pv": 4,
+        "cost": 5,
+        "point": 2
+    },
+    {
+        "id": 2,
+        "name": "Mage puissant",
+        "attack": 2,
+        "pv": 3,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 3,
+        "name": "Archer agile",
+        "attack": 4,
+        "pv": 2,
+        "cost": 3,
+        "point": 1
+    },
+    {
+        "id": 4,
+        "name": "Chevalier intrépide",
+        "attack": 5,
+        "pv": 5,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 5,
+        "name": "Sorcier mystérieux",
+        "attack": 3,
+        "pv": 2,
+        "cost": 4,
+        "point": 2
+    },
+    {
+        "id": 6,
+        "name": "Assassin furtif",
+        "attack": 4,
+        "pv": 3,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 7,
+        "name": "Paladin sacré",
+        "attack": 5,
+        "pv": 4,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 8,
+        "name": "Nécromancien sombre",
+        "attack": 2,
+        "pv": 1,
+        "cost": 3,
+        "point": 1
+    },
+    {
+        "id": 9,
+        "name": "Champion vaillant",
+        "attack": 4,
+        "pv": 5,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 10,
+        "name": "Rôdeur sauvage",
+        "attack": 3,
+        "pv": 3,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 11,
+        "name": "Barbare berserk",
+        "attack": 5,
+        "pv": 4,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 12,
+        "name": "Artilleur habile",
+        "attack": 3,
+        "pv": 2,
+        "cost": 4,
+        "point": 2
+    },
+    {
+        "id": 13,
+        "name": "Prêtre pieux",
+        "attack": 2,
+        "pv": 3,
+        "cost": 3,
+        "point": 1
+    },
+    {
+        "id": 14,
+        "name": "Druide sauvage",
+        "attack": 4,
+        "pv": 4,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 15,
+        "name": "Gardien vigilant",
+        "attack": 5,
+        "pv": 5,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 16,
+        "name": "Sapeur rusé",
+        "attack": 3,
+        "pv": 2,
+        "cost": 4,
+        "point": 2
+    },
+    {
+        "id": 17,
+        "name": "Cavalier rapide",
+        "attack": 4,
+        "pv": 3,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 18,
+        "name": "Archer précis",
+        "attack": 5,
+        "pv": 4,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 19,
+        "name": "Brigand sournois",
+        "attack": 2,
+        "pv": 1,
+        "cost": 3,
+        "point": 1
+    },
+    {
+        "id": 20,
+        "name": "Ménestrel charmeur",
+        "attack": 3,
+        "pv": 3,
+        "cost": 4,
+        "point": 2
+    },
+    {
+        "id": 21,
+        "name": "Dragon de feu",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 22,
+        "name": "Golem de pierre",
+        "attack": 6,
+        "pv": 9,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 23,
+        "name": "Loup solitaire",
+        "attack": 5,
+        "pv": 4,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 24,
+        "name": "Griffon majestueux",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 25,
+        "name": "Hydre vorace",
+        "attack": 9,
+        "pv": 8,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 26,
+        "name": "Élémental de l'air",
+        "attack": 6,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 27,
+        "name": "Basilic pétrifiant",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 28,
+        "name": "Chimère sauvage",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 29,
+        "name": "Phoenix immortel",
+        "attack": 10,
+        "pv": 9,
+        "cost": 10,
+        "point": 5
+    },
+    {
+        "id": 30,
+        "name": "Cyclope brutal",
+        "attack": 9,
+        "pv": 7,
+        "cost": 8,
+        "point": 4
+    },
+    {
+        "id": 31,
+        "name": "Sphinx énigmatique",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 32,
+        "name": "Gargouille agile",
+        "attack": 6,
+        "pv": 5,
+        "cost": 4,
+        "point": 2
+    },
+    {
+        "id": 33,
+        "name": "Licorne lumineuse",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 34,
+        "name": "Minotaure féroce",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 35,
+        "name": "Banshee sinistre",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 36,
+        "name": "Géant des montagnes",
+        "attack": 10,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 37,
+        "name": "Serpent venimeux",
+        "attack": 6,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 38,
+        "name": "Ogre dévastateur",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 39,
+        "name": "Harpie cruelle",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 40,
+        "name": "Yeti glacial",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 41,
+        "name": "Guerrier Lapin",
+        "attack": 2,
+        "pv": 2,
+        "cost": 1,
+        "point": 1
+    },
+    {
+        "id": 42,
+        "name": "Fermier Laperaux l'Intrépide",
+        "attack": 3,
+        "pv": 3,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 43,
+        "name": "Bunny le Lapin Sage",
+        "attack": 1,
+        "pv": 4,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 44,
+        "name": "Hoppy le Lapin Courageux",
+        "attack": 4,
+        "pv": 2,
+        "cost": 3,
+        "point": 3
+    },
+    {
+        "id": 45,
+        "name": "Fluffy le Lapin Timide",
+        "attack": 2,
+        "pv": 1,
+        "cost": 1,
+        "point": 1
+    },
+    {
+        "id": 46,
+        "name": "Nibbles le Lapin Farceur",
+        "attack": 3,
+        "pv": 2,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 47,
+        "name": "Bunny le Lapin Bondissant",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 3
+    },
+    {
+        "id": 48,
+        "name": "Thumper le Lapin Robuste",
+        "attack": 5,
+        "pv": 4,
+        "cost": 4,
+        "point": 4
+    },
+    {
+        "id": 49,
+        "name": "Snuggles le Lapin Doux",
+        "attack": 2,
+        "pv": 3,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 50,
+        "name": "Fluffy le Lapin Malicieux",
+        "attack": 3,
+        "pv": 2,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 51,
+        "name": "Cotton le Lapin Courageux",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 3
+    },
+    {
+        "id": 52,
+        "name": "Hopper le Lapin Audacieux",
+        "attack": 5,
+        "pv": 4,
+        "cost": 4,
+        "point": 4
+    },
+    {
+        "id": 53,
+        "name": "Thumper le Lapin Timide",
+        "attack": 2,
+        "pv": 1,
+        "cost": 1,
+        "point": 1
+    },
+    {
+        "id": 54,
+        "name": "Fluffy le Lapin Curieux",
+        "attack": 3,
+        "pv": 2,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 55,
+        "name": "Bunny le Lapin Farceur",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 3
+    },
+    {
+        "id": 56,
+        "name": "Nibbles le Lapin Furtif",
+        "attack": 5,
+        "pv": 4,
+        "cost": 4,
+        "point": 4
+    },
+    {
+        "id": 57,
+        "name": "Cotton le Lapin Calme",
+        "attack": 2,
+        "pv": 3,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 58,
+        "name": "Hopper le Lapin Fougueux",
+        "attack": 3,
+        "pv": 2,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 59,
+        "name": "Thumper le Lapin Joyeux",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 3
+    },
+    {
+        "id": 60,
+        "name": "Snuggles le Lapin Rusé",
+        "attack": 5,
+        "pv": 4,
+        "cost": 4,
+        "point": 4
+    },
+    {
+        "id": 61,
+        "name": "Tyrannosaure furieux",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 62,
+        "name": "Velociraptor agressif",
+        "attack": 6,
+        "pv": 5,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 63,
+        "name": "Stégosaure défensif",
+        "attack": 7,
+        "pv": 9,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 64,
+        "name": "Tricératops robuste",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 65,
+        "name": "Ptéranodon volant",
+        "attack": 5,
+        "pv": 4,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 66,
+        "name": "Ankylosaure blindé",
+        "attack": 6,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 67,
+        "name": "Brachiosaure colossal",
+        "attack": 9,
+        "pv": 10,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 68,
+        "name": "Diplodocus pacifique",
+        "attack": 4,
+        "pv": 7,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 69,
+        "name": "Allosaure vorace",
+        "attack": 8,
+        "pv": 6,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 70,
+        "name": "Archéoptéryx agile",
+        "attack": 5,
+        "pv": 3,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 71,
+        "name": "Brontosaure massif",
+        "attack": 7,
+        "pv": 9,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 72,
+        "name": "Compsognathus véloce",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 73,
+        "name": "Deinonychus féroce",
+        "attack": 6,
+        "pv": 5,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 74,
+        "name": "Pachycéphalosaure crané",
+        "attack": 5,
+        "pv": 6,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 75,
+        "name": "Spinosaure redoutable",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 76,
+        "name": "Tyrannosaure terror",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 77,
+        "name": "Utahraptor carnassier",
+        "attack": 7,
+        "pv": 6,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 78,
+        "name": "Velociraptor véloce",
+        "attack": 6,
+        "pv": 5,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 79,
+        "name": "Stégosaure robuste",
+        "attack": 7,
+        "pv": 8,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 80,
+        "name": "Tricératops titan",
+        "attack": 8,
+        "pv": 9,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 81,
+        "name": "Codeur Cybernétique",
+        "attack": 2,
+        "pv": 2,
+        "cost": 1,
+        "point": 1
+    },
+    {
+        "id": 82,
+        "name": "Programmeur Python",
+        "attack": 3,
+        "pv": 3,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 83,
+        "name": "Développeur Java",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 84,
+        "name": "Ingénieur Réseau",
+        "attack": 3,
+        "pv": 4,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 85,
+        "name": "Hackeur Habile",
+        "attack": 4,
+        "pv": 2,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 86,
+        "name": "Système d'exploitation Solide",
+        "attack": 5,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 87,
+        "name": "Base de données Blindée",
+        "attack": 6,
+        "pv": 4,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 88,
+        "name": "Robot Réactif",
+        "attack": 5,
+        "pv": 3,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 89,
+        "name": "Pirate Informatique",
+        "attack": 3,
+        "pv": 2,
+        "cost": 2,
+        "point": 1
+    },
+    {
+        "id": 90,
+        "name": "Cryptographie Fiable",
+        "attack": 2,
+        "pv": 3,
+        "cost": 2,
+        "point": 1
+    },
+    {
+        "id": 91,
+        "name": "Algorithme Agile",
+        "attack": 3,
+        "pv": 3,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 92,
+        "name": "Interface Intuitive",
+        "attack": 4,
+        "pv": 4,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 93,
+        "name": "Défenseur Virtuel",
+        "attack": 5,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 94,
+        "name": "Analyseur Automatique",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 95,
+        "name": "Ingénieur IA",
+        "attack": 6,
+        "pv": 4,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 96,
+        "name": "Terminal Tactique",
+        "attack": 3,
+        "pv": 2,
+        "cost": 2,
+        "point": 1
+    },
+    {
+        "id": 97,
+        "name": "Réseau Résilient",
+        "attack": 5,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 98,
+        "name": "Firewall Fiable",
+        "attack": 4,
+        "pv": 4,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 99,
+        "name": "Programmeur PHP",
+        "attack": 3,
+        "pv": 3,
+        "cost": 2,
+        "point": 2
+    },
+    {
+        "id": 100,
+        "name": "Développeur C++",
+        "attack": 4,
+        "pv": 3,
+        "cost": 3,
+        "point": 2
+    },
+    {
+        "id": 101,
+        "name": "Darth Vader",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 102,
+        "name": "Luke Skywalker",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 103,
+        "name": "Princesse Leia",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 104,
+        "name": "Han Solo",
+        "attack": 8,
+        "pv": 6,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 105,
+        "name": "Yoda",
+        "attack": 7,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 106,
+        "name": "Obi-Wan Kenobi",
+        "attack": 7,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 107,
+        "name": "Dark Helmet",
+        "attack": 6,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 108,
+        "name": "Dr. Evil",
+        "attack": 5,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 109,
+        "name": "Spock",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 110,
+        "name": "Captain Kirk",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 111,
+        "name": "Jean-Luc Picard",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 112,
+        "name": "Dalek",
+        "attack": 9,
+        "pv": 6,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 113,
+        "name": "Cybermen",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 114,
+        "name": "Cylon",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 115,
+        "name": "Gandalf",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 116,
+        "name": "Frodo Baggins",
+        "attack": 6,
+        "pv": 7,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 117,
+        "name": "Aragorn",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 118,
+        "name": "Dumbledore",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 119,
+        "name": "Harry Potter",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 120,
+        "name": "Hermione Granger",
+        "attack": 6,
+        "pv": 6,
+        "cost": 5,
+        "point": 3
+    },
+    {
+        "id": 121,
+        "name": "Neo",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 122,
+        "name": "Trinity",
+        "attack": 8,
+        "pv": 7,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 123,
+        "name": "Morpheus",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 124,
+        "name": "Agent Smith",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 125,
+        "name": "Ellen Ripley",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 126,
+        "name": "Predator",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 127,
+        "name": "Sarah Connor",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 128,
+        "name": "The Terminator",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 129,
+        "name": "Rick Sanchez",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 130,
+        "name": "Morty Smith",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 131,
+        "name": "Doctor Who",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+
+
+    },
+    {
+        "id": 132,
+        "name": "The Doctor",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 133,
+        "name": "Buffy Summers",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 134,
+        "name": "Angel",
+        "attack": 8,
+        "pv": 7,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 135,
+        "name": "Fox Mulder",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 136,
+        "name": "Dana Scully",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 137,
+        "name": "Eleven",
+        "attack": 8,
+        "pv": 7,
+        "cost": 7,
+        "point": 4
+    },
+    {
+        "id": 138,
+        "name": "The Demogorgon",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 139,
+        "name": "Captain Marvel",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 140,
+        "name": "Iron Man",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 141,
+        "name": "Pikachu",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 142,
+        "name": "Charizard",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 143,
+        "name": "Blastoise",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 144,
+        "name": "Mewtwo",
+        "attack": 10,
+        "pv": 10,
+        "cost": 10,
+        "point": 7
+    },
+    {
+        "id": 145,
+        "name": "Raichu",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 146,
+        "name": "Venusaur",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 147,
+        "name": "Zapdos",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 148,
+        "name": "Mew",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 149,
+        "name": "Articuno",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 150,
+        "name": "Moltres",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 151,
+        "name": "Jigglypuff",
+        "attack": 5,
+        "pv": 5,
+        "cost": 4,
+        "point": 3
+    },
+    {
+        "id": 152,
+        "name": "Gyarados",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 153,
+        "name": "Alakazam",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 154,
+        "name": "Dragonite",
+        "attack": 10,
+        "pv": 9,
+        "cost": 9,
+        "point": 7
+    },
+    {
+        "id": 155,
+        "name": "Machamp",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 156,
+        "name": "Gengar",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 157,
+        "name": "Snorlax",
+        "attack": 9,
+        "pv": 10,
+        "cost": 9,
+        "point": 7
+    },
+    {
+        "id": 158,
+        "name": "Lapras",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 159,
+        "name": "Bulbasaur",
+        "attack": 6,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 160,
+        "name": "Charmander",
+        "attack": 6,
+        "pv": 5,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 161,
+        "name": "Squirtle",
+        "attack": 5,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 162,
+        "name": "Muk",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 163,
+        "name": "Golem",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 164,
+        "name": "Dragonair",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 165,
+        "name": "Kadabra",
+        "attack": 7,
+        "pv": 6,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 166,
+        "name": "Cloyster",
+        "attack": 6,
+        "pv": 7,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 167,
+        "name": "Machoke",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 168,
+        "name": "Raikou",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 169,
+        "name": "Entei",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 170,
+        "name": "Suicune",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 171,
+        "name": "Monkey D. Luffy",
+        "attack": 8,
+        "pv": 9,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 172,
+        "name": "Goku",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 173,
+        "name": "Naruto Uzumaki",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 174,
+        "name": "Ichigo Kurosaki",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 175,
+        "name": "Saitama",
+        "attack": 10,
+        "pv": 10,
+        "cost": 10,
+        "point": 7
+    },
+    {
+        "id": 176,
+        "name": "Gon Freecss",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 177,
+        "name": "Vegeta",
+        "attack": 9,
+        "pv": 7,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 178,
+        "name": "Eren Yeager",
+        "attack": 8,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 179,
+        "name": "Sasuke Uchiha",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 180,
+        "name": "Ryuko Matoi",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 181,
+        "name": "Ken Kaneki",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 182,
+        "name": "Gintoki Sakata",
+        "attack": 8,
+        "pv": 7,
+        "cost": 6,
+        "point": 5
+    },
+    {
+        "id": 183,
+        "name": "Mob",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 184,
+        "name": "Yusuke Urameshi",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 185,
+        "name": "Tatsumi Oga",
+        "attack": 7,
+        "pv": 6,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 186,
+        "name": "Yukihira Soma",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 187,
+        "name": "Sakura Haruno",
+        "attack": 6,
+        "pv": 7,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 188,
+        "name": "Gray Fullbuster",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 189,
+        "name": "Allen Walker",
+        "attack": 8,
+        "pv": 7,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 190,
+        "name": "Yukine",
+        "attack": 7,
+        "pv": 9,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 191,
+        "name": "Hinata Shoyo",
+        "attack": 9,
+        "pv": 7,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 192,
+        "name": "Nezuko Kamado",
+        "attack": 7,
+        "pv": 6,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 193,
+        "name": "Yuno Gasai",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 194,
+        "name": "Koro Sensei",
+        "attack": 9,
+        "pv": 9,
+        "cost": 8,
+        "point": 5
+    },
+    {
+        "id": 195,
+        "name": "Shoyo Hinata",
+        "attack": 9,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 196,
+        "name": "Asuna Yuuki",
+        "attack": 6,
+        "pv": 7,
+        "cost": 5,
+        "point": 4
+    },
+    {
+        "id": 197,
+        "name": "Kanade Tachibana",
+        "attack": 7,
+        "pv": 8,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 198,
+        "name": "Koyomi Araragi",
+        "attack": 7,
+        "pv": 7,
+        "cost": 6,
+        "point": 4
+    },
+    {
+        "id": 199,
+        "name": "Shinichi Izumi",
+        "attack": 8,
+        "pv": 8,
+        "cost": 7,
+        "point": 5
+    },
+    {
+        "id": 200,
+        "name": "Homura Akemi",
+        "attack": 7,
+        "pv": 9,
+        "cost": 7,
+        "point": 5
+    }
+]
