@@ -1,16 +1,20 @@
 import { useState } from 'react'
 import './App.css'
+import HandComponent from './components/HandComponent'
 import Board from './components/Board'
+import DeckComposant from './components/DeckComponent'
 
 function App() {
-  const player1Cards = ['Carte 1', 'Carte 2'];
-  const player2Cards = ['Carte A', 'Carte B'];
+  const player1Cards = [];
+  const player2Cards = [];
   const player1Points = 10;
   const player2Points = 15;
   return (
     <>
+      <HandComponent idPlayer={1}/>
       <Board player1Points={player1Points} player2Points={player2Points} player1Cards={player1Cards} player2Cards={player2Cards}/>
-      {/* <CardComponent /> */}
+      <HandComponent idPlayer={2}/>
+      <DeckComposant />
     </>
   )
 }
